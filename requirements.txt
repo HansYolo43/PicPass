@@ -1,0 +1,5 @@
+pillow==9.3.0
+cryptography==39.0.1
+typer
+requests
+openai
